@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firstapp-26745": {
+      "hosting": {
+        "my-project-name": [
+          "firstapp-26745"
+        ]
+      }
+    }
+  }
+}
